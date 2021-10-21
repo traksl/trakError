@@ -19,7 +19,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'papers'
+project = 'Errores Comunes Trak'
 copyright = '2021, Nostrum Biodiscovery'
 author = 'Nostrum Biodiscovery'
 
