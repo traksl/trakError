@@ -1,7 +1,13 @@
+Errores comunes
+=================
+
+|
+
 .. figure:: ./images/logo.png
     :scale: 10%
     :align: center
 
+|
 
 
 
