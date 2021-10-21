@@ -21,7 +21,7 @@ Primero, asegurese de dar acceso a la cámara a Trak (Figura 1). Si aun así el 
 	
 
 
-La cámara se reconce peró no funciona
+La cámara se reconoce, pero no funciona
 ========================================
 
 

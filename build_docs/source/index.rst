@@ -7,8 +7,7 @@ Trak Errores
     :align: center
 
 
-Aquí dejamos documentación en los errores más comunes de nuestros pacientes usando Trak.
-
+Aquí dejamos documentación de los errores más comunes de los pacientes que usan Trak.
 
 .. toctree::
    DD/index.rst
