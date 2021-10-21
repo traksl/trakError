@@ -1,10 +1,8 @@
-Trak Errores
-==========================================================
-
-
 .. figure:: ./images/logo.png
-    :scale: 5%
+    :scale: 10%
     :align: center
+
+
 
 
 Aquí dejamos documentación de los errores más comunes de los pacientes que usan Trak.
