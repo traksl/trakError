@@ -37,7 +37,7 @@ El programa se ejecuta bien pero la cámara no aparece, probablemente porqué ha
     Figure 2
 
 
-.. figure:: images/obs2.jpeg
+.. figure:: images/gestionar_camara.png
     :scale: 40%
     :align: center
     
@@ -55,5 +55,5 @@ Busca el programa que está usando la cámara y cierralo, si aún no funciona de
     :align: center
 	
 
-.. figure:: images/obs4.jpeg
+.. figure:: images/obs2.png
     :scale: 40%
