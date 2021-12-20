@@ -20,8 +20,8 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Errores Comunes Trak'
-copyright = '2021, Nostrum Biodiscovery'
-author = 'Nostrum Biodiscovery'
+copyright = '2021, Trak Health Solutions SL'
+author = 'Trak Health Solutions'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
